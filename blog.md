@@ -1,4 +1,5 @@
-# My Favorite Food
+My Favorite Food
+==================
 
 My favorite food is Tikka Masala.
 
@@ -7,3 +8,7 @@ My favorite food is Tikka Masala.
 1. It's creamy
 2. Tastes good with rice
 3. Very filling
+
+----------------------------
+
+It's the best food out there.
